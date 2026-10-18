@@ -7,3 +7,4 @@ https://freelifemakers.org/wordpress
 - tailwind card + css card
 - tailwind form + css form
 - tailwind drop down menu + css drop down menu + component(button + drop down menu) 
+- Horizontal Nav Menu 
