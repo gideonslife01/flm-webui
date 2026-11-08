@@ -10,3 +10,4 @@ https://freelifemakers.org/wordpress
 - Horizontal Nav Menu 
 - Mega Menu 
 - Hamburger + Slide Menu
+- Tab Menu
