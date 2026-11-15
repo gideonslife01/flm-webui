@@ -10,4 +10,5 @@ https://freelifemakers.org/wordpress
 - Horizontal Nav Menu 
 - Mega Menu 
 - Hamburger + Slide Menu
+- Hamburger + Fullscreen Menu
 - Tab Menu
