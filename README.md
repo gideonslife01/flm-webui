@@ -12,3 +12,4 @@ https://freelifemakers.org/wordpress
 - Hamburger + Slide Menu
 - Hamburger + Fullscreen Menu
 - Tab Menu
+- cards - blogcard
