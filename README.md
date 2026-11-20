@@ -14,3 +14,4 @@ https://freelifemakers.org/wordpress
 - Tab Menu
 - cards - Blog card
 - cards - Product card
+- cards - Media card
