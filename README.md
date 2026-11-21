@@ -15,3 +15,4 @@ https://freelifemakers.org/wordpress
 - cards - Blog card
 - cards - Product card
 - cards - Media card
+- cards - Widget card
