@@ -16,3 +16,4 @@ https://freelifemakers.org/wordpress
 - cards - Product card
 - cards - Media card
 - cards - Widget card
+- cards - Service card
