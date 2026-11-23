@@ -17,3 +17,4 @@ https://freelifemakers.org/wordpress
 - cards - Media card
 - cards - Widget card
 - cards - Service card
+- cards - Event Banner card
