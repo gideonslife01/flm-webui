@@ -18,3 +18,4 @@ https://freelifemakers.org/wordpress
 - cards - Widget card
 - cards - Service card
 - cards - Event Banner card
+- cards - category card
