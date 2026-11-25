@@ -19,3 +19,4 @@ https://freelifemakers.org/wordpress
 - cards - Service card
 - cards - Event Banner card
 - cards - category card
+- cards - Minimal card
