@@ -20,3 +20,5 @@ https://freelifemakers.org/wordpress
 - cards - Event Banner card
 - cards - category card
 - cards - Minimal card
+- cards - Recommendation card
+- cards - Hover card
