@@ -3,6 +3,7 @@
 https://freelifemakers.org/wordpress
 
 1)tailwiin+nextjs1
+- UI Library List
 - tailwind button + css button
 - tailwind card + css card
 - tailwind form + css form
@@ -22,3 +23,4 @@ https://freelifemakers.org/wordpress
 - cards - Minimal card
 - cards - Recommendation card
 - cards - Hover card
+- Check Box
